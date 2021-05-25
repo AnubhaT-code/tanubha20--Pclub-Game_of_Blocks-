@@ -3,7 +3,7 @@ import hashlib
 S = input(" Enter a string ")
 begin = time.time()
 result = hashlib.sha256(S.encode())
-print(" The hexadecimal equivalent of ", S, " is : ")
+print("The hexadecimal equivalent of ", S, " is : ")
 print(result.hexdigest())
 c = 0
 x = 0
