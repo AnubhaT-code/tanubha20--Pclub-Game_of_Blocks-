@@ -1,3 +1,4 @@
+//I am still working on this code to complete it.
 A smart contract called MetaCoin, implements :-
 1.A basic token which the accounts can give to each other with the sendCoin(...) function 
 2.See their balance with the getBalance function. I tried to make a smart contract extending the functionality of the MetaCoin to provide functionality
